@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="survey_sdk_original_click" type="id" />
+    
+    <!-- Predefined button IDs -->
+    <item name="survey_button" type="id" />
+    <item name="take_survey" type="id" />
+    <item name="feedback_button" type="id" />
+    <item name="rate_app" type="id" />
+    
+    <!-- Custom button ID -->
+    <item name="my_custom_button" type="id" />
+</resources>

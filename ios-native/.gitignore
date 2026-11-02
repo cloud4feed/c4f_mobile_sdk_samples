@@ -1,0 +1,7 @@
+# Xcode / XcodeGen
+*.xcodeproj/
+DerivedData/
+xcuserdata/
+.build/
+*.xcworkspace/
+.DS_Store
