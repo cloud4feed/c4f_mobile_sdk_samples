@@ -42,7 +42,7 @@ android {
 
 dependencies {
     // Cloud4Feed Mobile SDK (JitPack). Artifact id = repository name (c4f_mobile_sdk).
-    implementation("com.github.cloud4feed:c4f_mobile_sdk:v2.0.22")
+    implementation("com.github.cloud4feed:c4f_mobile_sdk:v2.0.23")
 
     // App dependencies
     implementation("androidx.security:security-crypto:1.1.0-alpha06")

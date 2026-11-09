@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   
-  cloud4feed_mobilesdk_flutter: ^1.3.3  # Cloud4Feed Mobile SDK (pub.dev)
+  cloud4feed_mobilesdk_flutter: ^1.3.4  # Cloud4Feed Mobile SDK (pub.dev)
 
 dev_dependencies:
   flutter_test:
