@@ -1,7 +1,7 @@
 # React Native örneği ("ShopNow")
 
 Cloud4Feed Mobile SDK'yı bare React Native (0.74) uygulamasında kullanan örnek; Android ve iOS.
-SDK npm'den gelir: `cloud4feed-mobilesdk-react-native` (`^1.3.6`).
+SDK npm'den gelir: `cloud4feed-mobilesdk-react-native` (`^1.3.8`).
 
 ## Hazırlık
 

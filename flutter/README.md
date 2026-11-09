@@ -1,7 +1,7 @@
 # Flutter örneği
 
 Cloud4Feed Mobile SDK'yı Flutter uygulamasında kullanan örnek; Android ve iOS. SDK pub.dev'den
-gelir: `cloud4feed_mobilesdk_flutter: ^1.3.4`.
+gelir: `cloud4feed_mobilesdk_flutter: ^1.3.6`.
 
 ## Hazırlık
 

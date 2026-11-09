@@ -7,11 +7,11 @@ change, app launch, exit) denenebilir.
 
 | Klasör | Platform | SDK paketi | Sürüm |
 |---|---|---|---|
-| [`android-native/`](android-native) | Android (Kotlin, Views) | JitPack `com.github.cloud4feed:c4f_mobile_sdk` | `v2.0.23` |
+| [`android-native/`](android-native) | Android (Kotlin, Views) | JitPack `com.github.cloud4feed:c4f_mobile_sdk` | `v2.0.25` |
 | [`ios-native/`](ios-native) | iOS (Swift, UIKit + SwiftUI) | Swift Package `https://github.com/cloud4feed/c4f_mobile_sdk_ios` | `1.0.1` |
-| [`react-native/`](react-native) | Android + iOS | npm `cloud4feed-mobilesdk-react-native` | `^1.3.6` |
-| [`expo/`](expo) | Android + iOS | npm `cloud4feed-mobilesdk-react-native` + config plugin | `^1.3.6` |
-| [`flutter/`](flutter) | Android + iOS | pub.dev `cloud4feed_mobilesdk_flutter` | `^1.3.4` |
+| [`react-native/`](react-native) | Android + iOS | npm `cloud4feed-mobilesdk-react-native` | `^1.3.8` |
+| [`expo/`](expo) | Android + iOS | npm `cloud4feed-mobilesdk-react-native` + config plugin | `^1.3.8` |
+| [`flutter/`](flutter) | Android + iOS | pub.dev `cloud4feed_mobilesdk_flutter` | `^1.3.6` |
 
 React Native, Expo ve Flutter projeleri tek kod tabanıyla iki platformda çalışır; böylece 5 proje
 8 platform örneği verir (4 Android + 4 iOS).

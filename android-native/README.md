@@ -1,7 +1,7 @@
 # Android (Kotlin) örneği
 
 Cloud4Feed Mobile SDK'yı native bir Android uygulamasında kullanan örnek. SDK JitPack'ten gelir:
-`com.github.cloud4feed:c4f_mobile_sdk:v2.0.23`.
+`com.github.cloud4feed:c4f_mobile_sdk:v2.0.25`.
 
 ## Çalıştırma
 
@@ -17,7 +17,7 @@ Gereksinimler: `minSdk` 24 (SDK'nın kendisi 21+), `compileSdk` 34, JDK 17.
 | Dosya | Ne yapılıyor |
 |---|---|
 | `settings.gradle.kts` | `maven("https://jitpack.io")` deposu |
-| `app/build.gradle.kts` | `implementation("com.github.cloud4feed:c4f_mobile_sdk:v2.0.23")` |
+| `app/build.gradle.kts` | `implementation("com.github.cloud4feed:c4f_mobile_sdk:v2.0.25")` |
 | `MainActivity.kt` | `MobileSDK.initialize(...)`, `enableNavigationSafety().autoSetup(this)`, STORAGE değerleri (`app_prefs`), `setSessionData`, alt menüde `triggerByNavigation` |
 | `fragments/HomeFragment.kt` + `res/layout/fragment_home.xml` | Butonlar (`survey_button`, `my_custom_button` …) ve uzun scroll içerik |
 | `fragments/DashboardFragment.kt` | TabLayout + ViewPager2 sekmeleri, `triggerByTabChange` |

@@ -1,7 +1,7 @@
 # Expo örneği
 
 Cloud4Feed Mobile SDK'yı Expo (SDK 54, expo-router) uygulamasında kullanan örnek; Android ve iOS.
-SDK npm'den gelir: `cloud4feed-mobilesdk-react-native` (`^1.3.6`) ve config eklentisi
+SDK npm'den gelir: `cloud4feed-mobilesdk-react-native` (`^1.3.8`) ve config eklentisi
 `cloud4feed-mobilesdk-react-native/expo-plugin` (`app.json`).
 
 > Paket native kod içerir; **Expo Go'da çalışmaz**. Development build (`expo run:*`) veya EAS
